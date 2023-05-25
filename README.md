@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassan ElSherif
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning Backend Web Development
+- 👀 I’m interested in Cloud computing
+- 🌱 I’m currently learning System administrating
 - 📫 How to reach me Hassanelsherif73x@gmail.com
 
 <!---
